@@ -1,0 +1,13 @@
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# ملفات السجلات
+*.log
+
+# ملفات البيئة
+.env
+.env.local
+
+# ملفات التبعيات
+node_modules/
